@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lexus-webshop/static/css/main.e6c13ad2.css",
+    "main.js": "/lexus-webshop/static/js/main.db8960d2.js",
+    "static/js/968.e66d58aa.chunk.js": "/lexus-webshop/static/js/968.e66d58aa.chunk.js",
+    "static/js/301.eea1570f.chunk.js": "/lexus-webshop/static/js/301.eea1570f.chunk.js",
+    "static/js/74.44c2f997.chunk.js": "/lexus-webshop/static/js/74.44c2f997.chunk.js",
+    "static/js/122.900aef0c.chunk.js": "/lexus-webshop/static/js/122.900aef0c.chunk.js",
+    "static/js/448.2c844baf.chunk.js": "/lexus-webshop/static/js/448.2c844baf.chunk.js",
+    "static/js/954.6661969e.chunk.js": "/lexus-webshop/static/js/954.6661969e.chunk.js",
+    "static/js/453.40051666.chunk.js": "/lexus-webshop/static/js/453.40051666.chunk.js",
+    "index.html": "/lexus-webshop/index.html",
+    "main.e6c13ad2.css.map": "/lexus-webshop/static/css/main.e6c13ad2.css.map",
+    "main.db8960d2.js.map": "/lexus-webshop/static/js/main.db8960d2.js.map",
+    "968.e66d58aa.chunk.js.map": "/lexus-webshop/static/js/968.e66d58aa.chunk.js.map",
+    "301.eea1570f.chunk.js.map": "/lexus-webshop/static/js/301.eea1570f.chunk.js.map",
+    "74.44c2f997.chunk.js.map": "/lexus-webshop/static/js/74.44c2f997.chunk.js.map",
+    "122.900aef0c.chunk.js.map": "/lexus-webshop/static/js/122.900aef0c.chunk.js.map",
+    "448.2c844baf.chunk.js.map": "/lexus-webshop/static/js/448.2c844baf.chunk.js.map",
+    "954.6661969e.chunk.js.map": "/lexus-webshop/static/js/954.6661969e.chunk.js.map",
+    "453.40051666.chunk.js.map": "/lexus-webshop/static/js/453.40051666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.db8960d2.js"
+  ]
+}
