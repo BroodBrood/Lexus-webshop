@@ -99,14 +99,6 @@ De applicatie volgt Lexus' premium design taal, met:
 - Intuïtieve navigatie en gebruikerservaring
 - Toegankelijkheidsoverwegingen
 
-## Support en Contact
-Voor technische ondersteuning of zakelijke vragen:
-- Email: info@lexus-netherlands.com
-- Telefoon: +31 20 123 4567
-
-## Licentie
-Dit is een private applicatie. Alle rechten voorbehouden.
-
 --- english
 
 # Lexus Webshop Application
@@ -210,10 +202,3 @@ The application follows Lexus's premium design language, featuring:
 - Intuitive navigation and user experience
 - Accessibility considerations
 
-## Support and Contact
-For technical support or business inquiries:
-- Email: info@lexus-netherlands.com
-- Phone: +31 20 123 4567
-
-## License
-This is a private application. All rights reserved.
